@@ -1,0 +1,120 @@
+ssid|location|location-variant|area|area-variant|country
+1|Afghanistan|-|-|-|-
+4|Algeria|-|-|-|-
+14|Australia|-|-|-|-
+18|Bahrain|-|-|-|-
+19|Bangladesh|-|-|-|-
+21|Belarus|-|-|-|-
+22|Belgium|-|-|-|-
+44|Central African Republic|-|-|-|-
+53|Congo DR|-|-|-|-
+58|Cuba|-|-|-|-
+63|Germany, Democratic Republic (GDR)|-|-|-|-
+68|Egypt|-|-|-|-
+70|Equatorial Guinea|-|-|-|-
+71|Eritrea|-|-|-|-
+78|France|-|-|-|-
+85|Germany|-|-|-|-
+88|Greece|-|-|-|-
+96|Guinea-Bissau|-|-|-|-
+102|Hong Kong|-|-|-|-
+105|India|-|-|-|-
+107|Iran|-|-|-|-
+108|Iraq|-|-|-|-
+112|Italy|-|-|-|-
+116|Jordan|-|-|-|-
+117|Kazakhstan|-|-|-|-
+118|Kenya|-|-|-|-
+120|DPR Korea|-|-|-|-
+122|Kuwait|-|-|-|-
+123|Kyrgyzstan|-|-|-|-
+126|Lebanon|-|-|-|-
+128|Liberia|-|-|-|-
+129|Libya|-|-|-|-
+137|Malaysia|-|-|-|-
+139|Mali|-|-|-|-
+143|Mauritania|-|-|-|-
+148|Moldova|-|-|-|-
+153|Morocco|-|-|-|-
+155|Myanmar|-|-|-|-
+163|Niger|-|-|-|-
+164|Nigeria|-|-|-|-
+169|Oman|-|-|-|-
+170|Pakistan|-|-|-|-
+173|Panama|-|-|-|-
+177|Philippines|-|-|-|-
+182|Qatar|-|-|-|-
+185|Russian Federation|-|-|-|-
+186|Rwanda|-|-|-|-
+197|Saudi Arabia|-|-|-|-
+202|Singapore|-|-|-|-
+207|Somalia|-|-|-|-
+210|South Sudan|-|-|-|-
+213|Sudan|-|-|-|-
+218|Switzerland|-|-|-|-
+220|Syrian Arab Republic|-|-|-|-
+230|Tunisia|-|-|-|-
+231|Turkey|-|-|-|-
+235|Uganda|-|-|-|-
+236|Ukraine|-|-|-|-
+237|United Arab Emirates|-|-|-|-
+238|United Kingdom|-|-|-|-
+239|United States|-|-|-|-
+242|Uzbekistan|-|-|-|-
+245|Vietnam|-|-|-|-
+250|Yemen|-|-|-|-
+521|Ravni|Republic of Serbia|-|-|-
+490|Pozarevac|Republic of Serbia|-|-|-
+514|Belgrade|Republic of Serbia|-|-|-
+529|Bor|Republic of Serbia|-|-|-
+536|Mala Krsna|Republic of Serbia|-|-|-
+569|Tikrit|Iraq|-|-|-
+774|Mosul|-|-|-|-
+1003|Al-Awja, near Tikrit|Iraq|-|-|-
+1013|Amman|Jordan|-|-|-
+1065|Geneva|Switzerland|-|-|-
+1111|Al-Dur|Iraq|-|-|-
+1173|An Nasiriyah|Iraq|-|-|-
+1199|Salah al-Din|Iraq|-|-|-
+1226|Ramadi|Iraq|-|-|-
+1249|Bayji, Salah al-Din Governorate|Iraq|-|-|-
+1259|ar-Rashidiyah, suburb of Baghdad|Iraq|-|-|-
+1294|al-Samnah, near Tikrit|Iraq|-|-|-
+1302|Mandali District, Diyala|Iraq|-|-|-
+1310|Sulaymaniyah|Iraq|-|-|-
+1345|Diyala|Iraq|-|-|-
+1361|Rawah|Iraq|-|-|-
+1408|al-Anbar Governate|Iraq|-|-|-
+1452|Suq Ash-Shuyukh District, Dhi-Qar|Iraq|-|-|-
+1468|Ar-Ramadi|Iraq|-|-|-
+1499|Dujail|Iraq|-|-|-
+1518|Kubaisi, al-Anbar|Iraq|-|-|-
+1671|Kirkuk|Iraq|-|-|-
+1704|Amman|Jordan|-|-|-
+1767|Bludan|Syrian Arab Republic|-|-|-
+1768|Damascus|Syrian Arab Republic|-|-|-
+1769|Wadi Al-Hawi|Iraq|-|-|-
+1770|Dubai|United Arab Emirates|-|-|-
+1771|Al-Hasaka|Syrian Arab Republic|-|-|-
+1903|Beirut|Lebanon|-|-|-
+306|Zagorsk|Sergijev Posad|Russian Federation|-|-
+319|Minsk|Belarus|-|-|-
+391|Al-Owja|Iraq|-|-|-
+401|Mosul|Iraq|-|-|-
+403|Az Zabadani|Syrian Arab Republic|-|-|-
+416|Baghdad|Iraq|-|-|-
+461|Solo|Indonesia|-|-|-
+462|Indonesia|-|-|-|-
+4102|Ajman|United Arab Emirates|-|-|-
+4141|Delaware|United States|-|-|-
+4179|Gbondoi|Bong County|Liberia|-|-
+4202|Prizren|Republic of Serbia|-|-|-
+4353|Kiseljak|Bosnia and Herzegovina|-|-|-
+4401|Kopys|Vitebsk district|-|-|-
+4406|Minsk|-|-|-|-
+4413|Mogilev|-|-|-|-
+4426|Botnia|Mogilev district|-|-|-
+4433|Vygonoshchi|Brest district|-|-|-
+4438|Borisov|-|-|-|-
+4451|Akulintsi|Mogilev district|-|-|-
+4464|Usokhi|Mogilev district|-|-|-
